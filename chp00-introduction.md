@@ -25,7 +25,7 @@ The estate itself is located on a secluded skyborn archipelago.
 Just one of these flying isles is large and sturdy enough to support a few buildings, a fishery, and a farm.
 
 The estate itself is four acres wide, and has a main house, a guest house, a windmill, and two storage sheds.
-One of the predominate features on this isle is a large, self-generating freshwater lake housing a supple fishery.
+One of the predominant features on this isle is a large, self-generating freshwater lake housing a supple fishery.
 The source of the water is a crystal at the bottom of the lake that spouts water indefinitely.
 
 <img src="./img/home-estate.jpg" width="100%" />
@@ -43,7 +43,7 @@ However, Miss Longriver knows that it will soon be time to pass on the estate an
 ### Growing Up on the Estate
 The player characters should mostly look fondly and sentimentally upon their childhood on the estate.
 Mabel Longriver would go through great lengths to raise her grandchildren.
-She instilled a working ethic through farm labor and business practice.
+She instilled a work ethic through farm labor and business practice.
 She would hire educational experts to come and train the children to read, wield a sword, or practice magic.
 Sometimes, she would take the children on vacations to see vast cities and grasslands, telling great stories of their history.
 Most of all, Miss Longriver spoiled her grandchildren, and tried her very hardest to make each of them as happy as they could be.
