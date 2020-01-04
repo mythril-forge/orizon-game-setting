@@ -28,7 +28,7 @@ The estate itself is four acres wide, and has a main house, a guest house, a win
 One of the predominant features on this isle is a large, self-generating freshwater lake housing a supple fishery.
 The source of the water is a crystal at the bottom of the lake that spouts water indefinitely.
 
-<img src="./img/home-estate.jpg" width="100%" />
+<img src='./images/home-estate.jpg' width='100%' />
 
 An entity called the Great Empire has dominion over this region, and asserts their laws and taxes on the estate.
 That said, the farm property is in Mabel Longriver's name, and she manages its business endeavors within the family.
@@ -37,8 +37,8 @@ To that end, Mabel knows just how privileged her family is.
 The future generation of the Longriver family as it stands has been living peacefully on this land for about three decades now.
 However, Miss Longriver knows that it will soon be time to pass on the estate and let the children flourish into the world at large.
 
-<img src="./img/gogots-house01.jpg" width="50.0%" />
-<img src="./img/gogots-house02.jpg" width="37.5%" />
+<img src='./images/gogots-house01.jpg' width='50.0%' />
+<img src='./images/gogots-house02.jpg' width='37.5%' />
 
 ### Growing Up on the Estate
 The player characters should mostly look fondly and sentimentally upon their childhood on the estate.
