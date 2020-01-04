@@ -17,7 +17,7 @@ In this case, the parents (*and even Mabel herself*) have a soft spot for orphan
 Even then, other players may not wish to play youthful characters.
 If this happens, Mabel could hire fair and loyal labor in exchange for modest pay, a roof to sleep under, and a seat at the dinner table.
 After all, she is becoming too elderly to take care of everything herself.
-With time on this farm, this character could have been profoundly impacted by watching Mabel's grandchildren grow up.
+With time on the farm, this character could have been profoundly impacted by watching Mabel's grandchildren grow up.
 
 ### The Southwind Farm &amp; Estate
 Miss Longriver owns the Southwind Farm &amp; Estate and tends to its needs, alongside the player characters.
@@ -27,6 +27,11 @@ Just one of these flying isles is large and sturdy enough to support a few build
 The estate itself is four acres wide, and has a main house, a guest house, a windmill, and two storage sheds.
 One of the predominant features on this isle is a large, self-generating freshwater lake housing a supple fishery.
 The source of the water is a crystal at the bottom of the lake that spouts water indefinitely.
+
+> #### Mind for Business
+> Every two weeks, a cargo-airship comes by to pick up fresh produce and drop off supply shipments.
+> Miss Longriver often takes these opportunities to partake in business dealings within various cities.
+> These business dealings are how Mabel established a stable lifestyle for the residents of the estate.
 
 <img src='./images/home-estate.jpg' width='100%' />
 
