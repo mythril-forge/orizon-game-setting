@@ -71,8 +71,8 @@ Now, follow this character generation method:
 
 Skip the other character generation steps; you will begin without choosing a class or background.
 Your character is level zero.
-Your hit point maximum starts at exactly `10`.
 Start only with the features given by your fantasy race.
+Your hit point maximum starts at exactly `10`.
 You will keep these hit points as a bonus when you earn your first level.
 
 Do not worry about these changes; you will end your first session by choosing your background and first class level.
