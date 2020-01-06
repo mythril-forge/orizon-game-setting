@@ -1,4 +1,4 @@
-# Session Zero (Alpha)
+# Session Zero
 Before diving in and starting the game, it is highly encouraged that the Dungeon Master host an expectations-setting session.
 Calling it a session may be a bit of a misnomer, because as *the AngryGM* describes it, this is more of a conversation.
 For more information about what you should expect from Session Zero, [read his guide about it][AngryGM].
@@ -8,7 +8,7 @@ While this module sets certain expectations for you, others are left open-ended;
 What to tell your group about session zero:
 1. Session zero is a 2-hour session about the campaign.
 1. You want to build the game with their input.
-1. There won't be character generation yet until after session zero.
+1. There won't be character generation until after session zero.
 	*Do not allow your players to make characters before this session.*
 
 Core engagements to watch for:
