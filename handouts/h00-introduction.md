@@ -1,6 +1,6 @@
 # Introduction
-In this module, you will be exploring the vast planet of Orizon, and all that it has to offer.
-The most important thing you must know is that Orizon features skyborn, floating islands.
+In this module, you will be exploring the vast planet of Theia, and all that it has to offer.
+The most important thing you must know is that Theia features skyborn, floating islands.
 These masses of land stay afloat due to a powerful arcane crystal known as ætherium.
 These islands would collapse without them.
 
