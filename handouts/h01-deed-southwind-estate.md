@@ -1,4 +1,12 @@
 # Deed to Southwind Farm & Estate
+
+<img
+	src='../images/closeup-letter.jpg'
+	width='100%'
+/>
+
+> In a simple frame above the fireplace mantel lays the legal deed of the estate.
+
 ## Ownership Details
 Full autonomy over Southwind Farm & Estate granted to the owner of this document within the purview of Imperial Law.
 Ownership records, inspections, and other reports are detailed and signed off at the bottom of this deed.
